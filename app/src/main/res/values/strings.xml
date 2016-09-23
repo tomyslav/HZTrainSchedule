@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HZ Train Schedule</string>
+
+    <string name="action_settings">HZ VOZNI RED</string>
+
+    <string name="saveButton">SAVE DESTINATION</string>
+    <string name="checkButton">CHECK</string>
+    <string name="departuresButton">DEPARTURE</string>
+    <string name="arrivalsButton">ARRIVAL</string>
+    <string name="poKolodvorima">PO KOLODVORIMA</string>
+    <string name="gdjeJeVlak">GDJE JE VLAK?</string>
+    <string name="vozniRed">TRAIN SCHEDULE</string>
+
+    <string name="title_activity_select_service">HZ train Schedule</string>
+
+    <string name="title_activity_direction">DirectionActivity</string>
+    <string name="title_activity_final_data">FinalDataActivity</string>
+    <string name="title_activity_vozni_red">TrainScheduleActivity</string>
+
+
+    <string name="from">DEPARTURE FROM</string>
+    <string name="to">ARRIVAL TO</string>
+
+    <string name="getVozniRed">SEARCH</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_vozni_red_data">VozniRedDataActivity</string>
+</resources>
